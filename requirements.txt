@@ -1,2 +1,4 @@
 gspread==6.1.4
 pandas==2.2.3
+google-auth==2.37.0
+steputil==0.2.6
